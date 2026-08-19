@@ -1,0 +1,21 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+ENV/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Excel temporary and lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Streamlit internal state
+.streamlit/
